@@ -1,0 +1,818 @@
+site_name: SS-Data Explorer
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Demonstrations:
+    - 'https://www.mindsdb.com/':
+      - 'MindsDB Products': id=2796_demo=0.md
+    - 'https://fly.io':
+      - 'Blog Articles on Fly.io': id=2794_demo=0.md
+    - 'https://finlens.app':
+      - 'Finlens Services and Start Signup': id=2790_demo=0.md
+    - 'https://www.ezewholesale.com/':
+      - 'Regional Listings for Wholesale Electronics': id=2769_demo=0.md
+    - 'https://gaspos.co':
+      - 'Gas Pos Demo Request Success Story': id=2758_demo=0.md
+    - 'https://www.abalonebio.com':
+      - 'Abalone Bio''s Offerings': id=2750_demo=0.md
+    - 'https://skypher.co':
+      - 'Custom Pricing Request': id=2748_demo=0.md
+    - 'https://www.factoredquality.com/':
+      - 'Platform Offerings': id=2736_demo=0.md
+    - 'https://legionfarm.com/':
+      - 'User story for Christmas Balance Pack purchase': id=2734_demo=0.md
+    - 'https://jamiphy.com':
+      - 'Wix Pricing Exploration': id=2729_demo=0.md
+    - 'https://www.infield.ai':
+      - 'User Journey on Infield Blog': id=2725_demo=0.md
+    - 'https://zumolabs.ai/':
+      - 'Wix Pricing and Plan Features': id=2722_demo=0.md
+    - 'https://www.felixbt.com/':
+      - 'for Scheduling a Demo': id=2719_demo=0.md
+    - 'https://tryriot.com/':
+      - 'User journey through Riot''s cybersecurity services': id=2716_demo=0.md
+    - 'http://www.onkaiten.com':
+      - 'Add Olive Oil to Cart': id=2696_demo=0.md
+    - 'https://www.polytomic.com':
+      - 'Polytomic''s Offerings and Integrations': id=2691_demo=0.md
+    - 'https://www.posthog.com':
+      - 'Product Analytics and Session Replay Features': id=2681_demo=0.md
+    - 'https://www.handoff.ai/':
+      - 'Services for Remodelers': id=2647_demo=0.md
+    - 'https://mynextderma.com':
+      - 'Product Purchase Journey for Acnipop Barra Dermolimpiadora': id=2390_demo=0.md
+    - 'https://www.trela.com.br':
+      - 'Shopping Cart Addition': id=2377_demo=0.md
+    - 'http://www.lyggcorp.com':
+      - 'User Exploration of LYGG Corporation Website': id=2287_demo=0.md
+    - 'https://www.emergetools.com/':
+      - 'for Sign-Up Process': id=2266_demo=0.md
+    - 'https://www.finleycms.com':
+      - 'Finley Solutions and Customer Stories': id=2211_demo=0.md
+    - 'https://www.helloseer.com/':
+      - 'Demo Request Process Completion': id=2126_demo=0.md
+    - 'https://www.quotabook.com/en':
+      - 'Demo Request Submission': id=2122_demo=0.md
+    - 'https://avocadopos.com':
+      - 'User Onboarding Process': id=2106_demo=0.md
+    - 'https://cyble.com/':
+      - 'Cyble''s Cybersecurity Solutions': id=2095_demo=0.md
+    - 'https://firstbase.io/':
+      - 'and Initiate Sign-Up for Firstbase Start': id=2091_demo=0.md
+    - 'http://www.animahealth.com':
+      - 'Anima Health Products and Book a Demo': id=2073_demo=0.md
+    - 'https://wasp-lang.dev/':
+      - 'Wasp Documentation': id=2069_demo=0.md
+    - 'https://palettehq.com/en':
+      - 'User Journey through Palette HQ Features and Pricing': id=2064_demo=0.md
+    - 'https://www.flowbo.co/':
+      - 'Join the Beta Program': id=2059_demo=0.md
+    - 'https://www.floatpays.com':
+      - 'for  Products on Floatpays': id=2053_demo=0.md
+    - 'https://www.joinreframeapp.com/':
+      - 'Access Blog Articles on Reframe App': id=2052_demo=0.md
+    - 'https://www.inversionspace.com/':
+      - 'User Journey Through Inversion Space Website': id=2042_demo=0.md
+    - 'https://orderli.com/en':
+      - 'Integrations for Orderli': id=2040_demo=0.md
+    - 'https://abstra.io':
+      - 'Schedule a Demo on Abstra': id=2035_demo=0.md
+    - 'https://testrigor.com':
+      - 'testRigor Features': id=2027_demo=0.md
+    - 'https://writesonic.com/':
+      - '- Sign Up Process': id=2019_demo=0.md
+    - 'https://bolsterbuilt.com':
+      - 'Estimating Features': id=2016_demo=0.md
+    - 'https://www.freterium.com':
+      - 'Freterium Services and Schedule a Demo': id=2011_demo=0.md
+    - 'https://www.storylane.io/':
+      - 'User Journey to  Guided Demos': id=2008_demo=0.md
+    - 'http://makaniscience.net/':
+      - 'User Journey on Example Domains': id=2004_demo=0.md
+    - 'https://www.getlago.com/':
+      - 'Book a Demo': id=1987_demo=0.md
+    - 'https://oneshop.com':
+      - 'Signup Process for OneShop': id=1977_demo=0.md
+    - 'https://www.catenabiosciences.com/':
+      - 'User Exploration of CatenaBio''s Offerings': id=1968_demo=0.md
+    - 'https://www.payflow.es/':
+      - 'User Exploration on Payflow Website': id=1958_demo=0.md
+    - 'https://ahazou.com':
+      - 'Pricing Plans After a Free Trial Offer': id=1948_demo=0.md
+    - 'https://aviator.co':
+      - 'Aviator Documentation': id=1942_demo=0.md
+    - 'https://www.epsilon3.io/':
+      - 'User Journey for Product Exploration and Demo Request': id=1941_demo=0.md
+    - 'https://www.zensors.com':
+      - 'AI Technologies': id=1938_demo=0.md
+    - 'https://movingparts.io':
+      - 'Booking a Demo with Time Zone and Cookie Preferences': id=1932_demo=0.md
+    - 'https://www.bytekitchen.io/':
+      - 'ByteCheck and Schedule a Demo': id=1926_demo=0.md
+    - 'https://www.shopmygpt.com/':
+      - 'for  Women''s and Men''s Products': id=1915_demo=0.md
+    - 'https://www.instacrops.com':
+      - 'Instacrops Information': id=1905_demo=0.md
+    - 'https://yemaachi.com/':
+      - 'Yemaachi Biotech Research Initiatives': id=1896_demo=0.md
+    - 'https://www.cococart.co':
+      - 'Cococart Services': id=1888_demo=0.md
+    - 'https://mergent.co':
+      - 'for Mergent Signup Process': id=1873_demo=0.md
+    - 'https://www.heimdalccu.com':
+      - 'Company Information and Job Opportunities': id=1868_demo=0.md
+    - 'https://www.potion.ai':
+      - 'Joining Potion AI': id=1866_demo=0.md
+    - 'https://mentor.cam/':
+      - 'Newsletter Subscription Feature': id=1865_demo=0.md
+    - 'http://tenyks.ai/':
+      - 'User Registration Flow': id=1858_demo=0.md
+    - 'http://www.joinforage.com':
+      - 'for  EBT Payment Options': id=1855_demo=0.md
+    - 'https://www.trymable.com/':
+      - 'User Exploration of Hair Transplant Options': id=1851_demo=0.md
+    - 'https://chari.com':
+      - 'for Chari Navigation': id=1849_demo=0.md
+    - 'https://www.karboncard.com/':
+      - 'Karbon''s Remittance Solutions and Begin Registration Process': id=1848_demo=0.md
+    - 'https://scispot.io':
+      - 'Scispot Solutions': id=1843_demo=0.md
+    - 'http://medium.bio':
+      - 'Medium Bio': id=1840_demo=0.md
+    - 'https://heycharge.com/':
+      - 'HeyCharge Solutions for Hotels': id=1838_demo=0.md
+    - 'http://www.biteninja.com':
+      - 'Inquiry for Restaurant Services': id=1827_demo=0.md
+    - 'https://www.fodzyme.com':
+      - 'Access Offer and  Products': id=1825_demo=0.md
+    - 'https://www.sirka.io/':
+      - 'User Journey to Learn About Sirka': id=1823_demo=0.md
+    - 'http://astekdx.com':
+      - 'User Journey through Astek Diagnostics Website': id=1815_demo=0.md
+    - 'https://www.veranohealth.org/':
+      - 'Navigating Information About Example Domains': id=1807_demo=0.md
+    - 'https://www.heo-robotics.com/':
+      - 'HEO''s Offerings': id=1803_demo=0.md
+    - 'https://blockerx.net/':
+      - 'BlockerX Products': id=1800_demo=0.md
+    - 'https://www.levro.com':
+      - 'Mass Payments Product and Pricing': id=1793_demo=0.md
+    - 'http://infina.vn':
+      - 'Interest Account Processes': id=1781_demo=0.md
+    - 'https://getdot.ai':
+      - 'Dot''s Services': id=1779_demo=0.md
+    - 'https://www.tavus.io':
+      - 'Product Offerings and Video Generation API': id=1756_demo=0.md
+    - 'https://www.dime.io/':
+      - 'Free Proposal Request Workflow': id=1748_demo=0.md
+    - 'https://trylevel.app':
+      - 'User Navigation to Learn About Example Domains': id=1737_demo=0.md
+    - 'https://www.rendalomaq.com/':
+      - '- Requesting Equipment Rental Quote': id=1734_demo=0.md
+    - 'https://pideaky.com/en/':
+      - 'Loan and Collection Management Options': id=1720_demo=0.md
+    - 'https://www.usekaya.com/':
+      - 'Kaya''s Services and Pricing': id=1719_demo=0.md
+    - 'https://www.advantageclub.co':
+      - 'Requesting a Demo from Advantage Club': id=1717_demo=0.md
+    - 'https://sfatherapeutics.com/':
+      - 'for  Team Information on SFA Therapeutics Website': id=1716_demo=0.md
+    - 'https://www.zeitmedical.com/':
+      - 'Zeit Medical''s Vision, Solution, and Technology': id=1715_demo=0.md
+    - 'http://www.slopepay.com':
+      - 'SlopePay Product Offerings': id=1713_demo=0.md
+    - 'https://www.muse.place/':
+      - 'User Experience on Muse Place': id=1711_demo=0.md
+    - 'https://www.zazos.com/':
+      - 'User Navigation on Zazos Blog': id=1703_demo=0.md
+    - 'https://nomod.com':
+      - 'Nomod''s Features': id=1701_demo=0.md
+    - 'https://trytoku.com/':
+      - 'Consultation Request': id=1693_demo=0.md
+    - 'https://jestor.com':
+      - '-  Templates': id=1690_demo=0.md
+    - 'https://www.joindeed.com':
+      - 'Deed Solutions and Products': id=1687_demo=0.md
+    - 'https://hotglue.com':
+      - 'Password Recovery Process': id=1686_demo=0.md
+    - 'https://www.kodexglobal.com':
+      - 'Kodex Services': id=1683_demo=0.md
+    - 'https://withblaze.app/':
+      - 'Product Offerings and Workflows': id=1669_demo=0.md
+    - 'https://arintra.com':
+      - 'Arintra Product Offerings': id=1668_demo=0.md
+    - 'https://myria.us':
+      - 'Myria Services and Membership': id=1661_demo=0.md
+    - 'http://engagebio.com':
+      - 'Team Profiles on Engage Bio': id=1656_demo=0.md
+    - 'http://seabound.co':
+      - 'Seabound''s Technology and Partnerships': id=1652_demo=0.md
+    - 'https://www.redbird.io':
+      - 'Marketing Use Case': id=1650_demo=0.md
+    - 'https://www.nyckel.com':
+      - 'Booking a Demo Meeting with Nyckel': id=1647_demo=0.md
+    - 'https://www.cuentamono.com/':
+      - 'and Apply for Card Offerings': id=1640_demo=0.md
+    - 'https://www.easycode.ai/':
+      - 'Job Application Process': id=1636_demo=0.md
+    - 'https://cherry.ai/':
+      - 'for Domain Purchase': id=1627_demo=0.md
+    - 'https://craniometrix.com':
+      - 'Craniometrix''s Services and Request Demo': id=1621_demo=0.md
+    - 'https://www.teamout.com/':
+      - 'Corporate Retreat Locations': id=1620_demo=0.md
+    - 'http://www.cinder.co':
+      - 'Cinder''s Product Offerings': id=1614_demo=0.md
+    - 'https://stafbook.com':
+      - 'User Registration for Demo Scheduling': id=1611_demo=0.md
+    - 'https://www.flightcontrol.dev?ref=bookface':
+      - 'Documentation Navigation and Resource Access': id=1601_demo=0.md
+    - 'https://demogorilla.com/':
+      - 'for Installing Demo Gorilla Extension': id=1596_demo=0.md
+    - 'https://www.policyfly.com':
+      - 'User Exploration of PolicyFly''s Features': id=1570_demo=0.md
+    - 'https://flowdeploy.com':
+      - 'and Engage with FlowDeploy Documentation and Tutorials': id=1565_demo=0.md
+    - 'https://shaped.ai':
+      - 'for Registration Process': id=1553_demo=0.md
+    - 'https://campfire.to':
+      - 'of  Privacy Policy': id=1549_demo=0.md
+    - 'https://supersend.io/':
+      - 'SuperSend Features': id=1539_demo=0.md
+    - 'https://trustyhomes.com/':
+      - 'Agent Account Creation': id=1531_demo=0.md
+    - 'https://www.antwalk.com/':
+      - 'User Journey on AntWalk''s Website': id=1527_demo=0.md
+    - 'https://olympianmotors.com/':
+      - 'Olympian Motors Vehicle Models': id=1523_demo=0.md
+    - 'https://lifeat.com':
+      - 'Download LifeAt App for Mac and Windows': id=1514_demo=0.md
+    - 'https://www.airworkhq.com':
+      - 'Airwork Services for Workers': id=1503_demo=0.md
+    - 'https://www.sarus.tech':
+      - 'Sarus Solutions for Finance': id=1492_demo=0.md
+    - 'https://perlstreet.com/':
+      - 'Solutions for Decarbonization Projects': id=1484_demo=0.md
+    - 'https://argument.xyz':
+      - 'Argument Computer Corporation''s Overview': id=1480_demo=0.md
+    - 'https://gimo.vn/en':
+      - 'GIMO Solutions': id=1479_demo=0.md
+    - 'https://www.kaso.ai':
+      - 'Kaso''s Services for Suppliers': id=1472_demo=0.md
+    - 'https://www.industrialnext.ai':
+      - 'for  Company Information': id=1469_demo=0.md
+    - 'http://withrider.com':
+      - 'User Journey to Learn About Rider''s Services': id=1454_demo=0.md
+    - 'https://kaagaz.app':
+      - 'Kaagaz App Features and Opportunities': id=1452_demo=0.md
+    - 'http://www.shinkei.systems':
+      - 'Shinkei''s Services and Manage Cookie Preferences': id=1450_demo=0.md
+    - 'https://www.imt.care':
+      - 'User Journey on IMT Care Website': id=1446_demo=0.md
+    - 'https://cogram.com':
+      - '- Scheduling a Demo': id=1444_demo=0.md
+    - 'https://www.alga.bio/':
+      - 'Alga Biosciences Team and Job Opportunities': id=1443_demo=0.md
+    - 'https://botcity.dev':
+      - 'for BotCity Sign-Up Process': id=1434_demo=0.md
+    - 'http://clupp.com.mx/':
+      - 'Insurance Products': id=1427_demo=0.md
+    - 'https://palitronica.com':
+      - 'Product Offerings on Palitronica': id=1425_demo=0.md
+    - 'http://www.airmyne.com':
+      - 'User Journey through AirMyne''s Website': id=1424_demo=0.md
+    - 'https://www.creizer.com/':
+      - 'User Journey  Creizer''s Credit Process': id=1419_demo=0.md
+    - 'https://criya.co':
+      - 'Criya''s Offerings': id=1412_demo=0.md
+    - 'https://gauss.money':
+      - 'FAQs on Gauss Website': id=1408_demo=0.md
+    - 'https://plumter.com':
+      - 'User Journey on Plumter Website': id=1406_demo=0.md
+    - 'https://www.harmoney.in/':
+      - 'DART Product and Initiate Registration': id=1404_demo=0.md
+    - 'https://heyfood.africa/':
+      - 'Find Restaurants in Ibadan': id=1403_demo=0.md
+    - 'https://www.getsphere.com/':
+      - 'User Journey for  Sphere Services and Pricing': id=1398_demo=0.md
+    - 'http://www.tryskylink.com':
+      - 'Contact Us Form Completion': id=1395_demo=0.md
+    - 'https://verdn.com':
+      - 'User Submission for Inquiry': id=1392_demo=0.md
+    - 'https://www.simplehash.com':
+      - 'User Registration for SimpleHash API Access': id=1379_demo=0.md
+    - 'http://HelloLunaJoy.com':
+      - 'for Booking an Appointment at LunaJoy': id=1378_demo=0.md
+    - 'https://www.digiventures.la/':
+      - 'Digi''s Products': id=1367_demo=0.md
+    - 'https://getlovage.com':
+      - 'Lovage Services': id=1362_demo=0.md
+    - 'https://www.usepigeon.io':
+      - 'for Accessing Educational Resources on Pigeon': id=1360_demo=0.md
+    - 'https://book.shuttlecentral.com/':
+      - 'Language Selection and Airport Input': id=1358_demo=0.md
+    - 'https://play.google.com/store/apps/details?id=com.foodmonk.rekordapp':
+      - 'App Reviews': id=1350_demo=0.md
+    - 'http://www.8vdx.com':
+      - 'for Call Request Submission': id=1348_demo=0.md
+    - 'https://wereno.com':
+      - 'WeReno''s Services and Portfolio': id=1347_demo=0.md
+    - 'https://rosebudbiosciences.com/':
+      - 'Rosebud Biosciences Technology': id=1339_demo=0.md
+    - 'https://requestly.com':
+      - 'for Website Navigation Issue': id=1338_demo=0.md
+    - 'https://vance.tech':
+      - 'Sample Website Navigation': id=1333_demo=0.md
+    - 'http://www.wyvern.space':
+      - 'for Website Exploration': id=1329_demo=0.md
+    - 'https://salt.pe':
+      - 'User Journey to Access Currency Conversion Tool': id=1322_demo=0.md
+    - 'https://instant.ca':
+      - 'Strobe Pricing and Sign-Up Process': id=1317_demo=0.md
+    - 'https://www.withtai.com':
+      - 'User Signup Flow': id=1314_demo=0.md
+    - 'https://www.tybrhealth.com/':
+      - 'TYBR Health Sections': id=1307_demo=0.md
+    - 'https://dealls.com':
+      - 'User Journey on the Web': id=1305_demo=0.md
+    - 'https://pyrls.com':
+      - 'User Journey for Pricing Exploration and Sign-Up': id=1302_demo=0.md
+    - 'https://www.iomete.com/':
+      - 'IOMETE Pricing Options': id=1300_demo=0.md
+    - 'https://hyperbeam.com?ch=yc':
+      - 'Hyperbeam Service': id=1293_demo=0.md
+    - 'https://www.blitzllama.com/':
+      - 'Blitzllama Products': id=1292_demo=0.md
+    - 'https://sekilo.com/en/':
+      - 'User Journey on Sekilo Website': id=1290_demo=0.md
+    - 'https://theneo.io':
+      - 'Theneo Features and Pricing': id=1282_demo=0.md
+    - 'https://complif.com':
+      - 'Schedule a Demo with Complif': id=1279_demo=0.md
+    - 'https://www.uberduck.ai':
+      - 'Accessing Text-to-Speech Options for Languages': id=1277_demo=0.md
+    - 'https://magna.so':
+      - 'Magna Blog and Read Case Study': id=1276_demo=0.md
+    - 'https://www.autocomputer.ai/':
+      - 'for Joining Waitlist and  Enterprise Options': id=1126_demo=0.md
+    - 'https://www.mydocflow.com/':
+      - 'Password Reset Attempt': id=1124_demo=0.md
+    - 'https://www.tryopenclinic.com':
+      - 'Doctor Sign-Up Process': id=1123_demo=0.md
+    - 'https://www.opensight.ai':
+      - 'User Navigation Flow to Find Information': id=1113_demo=0.md
+    - 'https://www.infiniaweb.com/':
+      - 'User Journey on Infinia Website': id=1110_demo=0.md
+    - 'https://www.cakework.com':
+      - 'REST API Documentation': id=1109_demo=0.md
+    - 'https://sirdab.co/en':
+      - 'Help Center and Getting Started Guide': id=1108_demo=0.md
+    - 'https://usedill.com/':
+      - 'External Content Sources': id=1106_demo=0.md
+    - 'https://codeparrot.ai/':
+      - 'CodeParrot Functionality': id=1105_demo=0.md
+    - 'http://www.pier-finance.com':
+      - 'Product Offerings on Pier Finance': id=1103_demo=0.md
+    - 'https://www.trysalient.com':
+      - 'User Inquiry Submission': id=1101_demo=0.md
+    - 'https://escape.tech':
+      - 'Product Offerings on Escape.tech': id=1100_demo=0.md
+    - 'https://aiflow.solutions':
+      - 'AiFlow Features and Schedule Meeting': id=1097_demo=0.md
+    - 'https://www.ruuf.cl':
+      - 'for URL Navigation Attempt': id=1092_demo=0.md
+    - 'https://floworks.ai/':
+      - 'Book Demo Successfully': id=1081_demo=0.md
+    - 'https://orchid.health':
+      - 'User Sign-Up for Early Access': id=1078_demo=0.md
+    - 'https://www.arroyo.dev':
+      - 'Navigation Capabilities': id=1076_demo=0.md
+    - 'https://www.bujeti.com':
+      - 'for Booking a Demo with Bujeti': id=1075_demo=0.md
+    - 'https://www.usehindsight.com/':
+      - 'Blog Subscription': id=1073_demo=0.md
+    - 'https://storyboarder.com':
+      - 'Join Waitlist for Storyboarder': id=1070_demo=0.md
+    - 'https://www.bluebirds.ai':
+      - 'of Navigation Attempts': id=1062_demo=0.md
+    - 'https://www.alaan.com/':
+      - 'Spend Management Solutions': id=1061_demo=0.md
+    - 'https://www.growparabolic.com/':
+      - 'for AI Assistant Engagement': id=1058_demo=0.md
+    - 'https://www.usehaven.ai/':
+      - 'AI Management Features and Performance Insights': id=1056_demo=0.md
+    - 'https://indexical.dev/':
+      - 'User Journey for Simple Scraper Exploration': id=1054_demo=0.md
+    - 'https://frigade.com':
+      - 'External Websites': id=1052_demo=0.md
+    - 'https://rubbrband.com':
+      - 'User Journey to Pricing Information': id=1049_demo=0.md
+    - 'https://invitris.com/':
+      - 'Website Navigation Failure': id=1024_demo=0.md
+    - 'https://concourse.co/':
+      - 'of Early Access Registration': id=1021_demo=0.md
+    - 'https://index.inc':
+      - 'for Pre-ordering Index': id=1019_demo=0.md
+    - 'https://www.theya.us/':
+      - 'for Browser Navigation Issue': id=1018_demo=0.md
+    - 'https://www.outerbase.com':
+      - 'User Navigation and Content Exploration': id=1011_demo=0.md
+    - 'https://www.trackstarhq.com/':
+      - 'Trackstars Solutions': id=1010_demo=0.md
+    - 'https://www.magicpatterns.com/':
+      - 'Generate New UI and Add Features': id=1006_demo=0.md
+    - 'https://www.hammr.com':
+      - 'User Journey to Request a Demo for Construction Payroll': id=989_demo=0.md
+    - 'https://www.fetchr.so':
+      - 'for Joining Fetchr Beta': id=988_demo=0.md
+    - 'https://infisical.com':
+      - 'Navigation Testing': id=986_demo=0.md
+    - 'https://www.designbase.com/':
+      - 'Early Access Request': id=985_demo=0.md
+    - 'https://askkyber.com':
+      - 'User Journey to Access News on Kyber': id=984_demo=0.md
+    - 'https://www.epsilon-ai.com':
+      - 'Solutions and Conduct Research': id=981_demo=0.md
+    - 'https://www.finnihealth.com/':
+      - 'User Journey on Finni Health Website': id=976_demo=0.md
+    - 'http://cardinalapp.io':
+      - 'User Journey through Cardinal''s Features and Pricing': id=973_demo=0.md
+    - 'http://www.cosine.sh':
+      - 'User Engagement with the Genie AI Introduction': id=972_demo=0.md
+    - 'https://trigger.dev':
+      - 'Features of Trigger.dev': id=970_demo=0.md
+    - 'https://www.holacasa.mx/':
+      - 'Mortgage Simulation User Journey': id=969_demo=0.md
+    - 'http://www.miracleml.com':
+      - 'for Contact Form Submission': id=957_demo=0.md
+    - 'https://www.linum.ai/':
+      - 'User Registration for Waitlist': id=956_demo=0.md
+    - 'https://www.extend.app/':
+      - 'User Onboarding Journey': id=955_demo=0.md
+    - 'https://sprx.tax':
+      - 'SPRX Services': id=954_demo=0.md
+    - 'https://www.lume.ai':
+      - 'User Journey through Lume AI Blog and Demo Booking': id=951_demo=0.md
+    - 'https://www.turntable.so':
+      - 'for Early Access Signup': id=950_demo=0.md
+    - 'https://latenthealth.com':
+      - 'Watch Demo of Latent Health Services': id=949_demo=0.md
+    - 'https://struct.app':
+      - 'for Navigating Web Content': id=946_demo=0.md
+    - 'https://useconstant.com':
+      - 'Platform and Contact Support': id=945_demo=0.md
+    - 'https://credal.ai':
+      - 'for Credal Product Exploration': id=943_demo=0.md
+    - 'https://www.helicone.ai/':
+      - 'for Website Navigation': id=929_demo=0.md
+    - 'https://uptrain.ai/':
+      - 'Accessing UpTrain Documentation': id=924_demo=0.md
+    - 'https://dashdive.com':
+      - 'Navigation Exploration': id=911_demo=0.md
+    - 'https://flower.ai':
+      - 'Flower Documentation': id=898_demo=0.md
+    - 'https://co.dev/?ref=YC':
+      - 'for Joining Discord Community': id=897_demo=0.md
+    - 'https://univerbal.app':
+      - 'Navigating to External Websites': id=895_demo=0.md
+    - 'https://www.versori.com/':
+      - 'Products and Industries': id=894_demo=0.md
+    - 'https://www.pyqai.com':
+      - 'Solutions and Use Cases': id=893_demo=0.md
+    - 'https://www.teclada.com/':
+      - 'User Experience Tracking on Navigation Attempts': id=891_demo=0.md
+    - 'https://www.invopop.com/':
+      - 'Schedule Demo with Invopop': id=888_demo=0.md
+    - 'https://commonpaper.com/':
+      - 'for Web Navigation': id=885_demo=0.md
+    - 'https://mogara.com':
+      - 'Security Features and Articles': id=884_demo=0.md
+    - 'https://tableflow.com':
+      - 'Website Navigation Exploration': id=882_demo=0.md
+    - 'https://www.justpaid.ai':
+      - 'Signup Process Exploration': id=871_demo=0.md
+    - 'https://':
+      - 'for Navigation Attempt': id=870_demo=0.md
+    - 'https://rift.com':
+      - 'Blog Content': id=865_demo=0.md
+    - 'http://www.metal.so':
+      - 'User Signup for Launch Notification': id=863_demo=0.md
+    - 'https://cloudchipr.com/':
+      - 'User Navigation Exploration': id=861_demo=0.md
+    - 'https://vendah.com.br/':
+      - 'User Registration Process': id=857_demo=0.md
+    - 'http://www.getpointwise.com':
+      - 'Pointwise Services': id=854_demo=0.md
+    - 'https://www.avoca.ai/':
+      - 'User Exploration of Avoca AI Product Features': id=850_demo=0.md
+    - 'https://www.vellum.ai/':
+      - 'for Accessing Vellum Documentation': id=848_demo=0.md
+    - 'https://sorted-lp.webflow.io/':
+      - 'User Navigation to Product Information': id=841_demo=0.md
+    - 'https://www.sizeless.co':
+      - 'User Engagement on Sizeless Website': id=836_demo=0.md
+    - 'https://www.sola-solutions.com/':
+      - 'User Journey on Sola Solutions Website': id=834_demo=0.md
+    - 'https://www.pincites.com/':
+      - 'for Pincites Demo Booking': id=829_demo=0.md
+    - 'https://cedana.ai':
+      - 'Cedana''s Product Offerings': id=828_demo=0.md
+    - 'https://www.trycrew.ai':
+      - 'User Registration Process': id=825_demo=0.md
+    - 'https://www.constructable.ai/':
+      - 'for  Features and Pricing': id=824_demo=0.md
+    - 'https://':
+      - 'IANA Managed Domains': id=803_demo=0.md
+    - 'https://www.withterminal.com/':
+      - '-  Terminal API Use Cases': id=802_demo=0.md
+    - 'https://innkeeper.ai':
+      - 'for Innkeeper AI Demo Booking': id=800_demo=0.md
+    - 'https://www.metalware.com/':
+      - 'Demo Request': id=798_demo=0.md
+    - 'https://craftwork.com/':
+      - 'Estimate Process Exploration': id=797_demo=0.md
+    - 'https://dioxuslabs.com':
+      - 'User Navigation Exploration': id=796_demo=0.md
+    - 'https://smobi.com/':
+      - 'Blog and Request Access': id=794_demo=0.md
+    - 'https://www.electricair.io/':
+      - 'Heat Pump Benefits and Technology': id=792_demo=0.md
+    - 'https://www.getstrada.com/':
+      - 'Book a Demo Request': id=790_demo=0.md
+    - 'https://mavenbio.io':
+      - 'User Journey through Maven Bio''s Platform': id=789_demo=0.md
+    - 'https://www.mandel.ai/':
+      - 'of Navigation Failure': id=788_demo=0.md
+    - 'https://roundtable.ai':
+      - 'User Engagement with Pricing and Demo Features': id=784_demo=0.md
+    - 'https://www.quackai.com/':
+      - 'Website Navigation Exploration': id=783_demo=0.md
+    - 'https://www.corgea.com/':
+      - 'Corgea Pricing and Registration': id=781_demo=0.md
+    - 'https://www.getobento.com':
+      - 'for Early Access Sign Up': id=759_demo=0.md
+    - 'https://roame.travel/':
+      - 'Flight Options': id=758_demo=0.md
+    - 'https://certainlyhealth.com':
+      - 'for Browsing Botox Services': id=753_demo=0.md
+    - 'https://www.flairhealth.com':
+      - 'Features and Request a Demo': id=745_demo=0.md
+    - 'https://www.studdy.ai/':
+      - 'User Journey to Free Trial Sign-Up': id=742_demo=0.md
+    - 'http://www.simbie.ai':
+      - 'Web Navigation': id=740_demo=0.md
+    - 'https://gladestudio.ai/':
+      - 'User Engagement with Upcoming Title': id=732_demo=0.md
+    - 'https://www.getventa.ai':
+      - 'User Navigation Experience': id=729_demo=0.md
+    - 'https://vaultpay.io':
+      - 'for Account Creation on Vaultpay': id=721_demo=0.md
+    - 'https://readily.co':
+      - 'for Website Navigation': id=720_demo=0.md
+    - 'https://opsberry.ai':
+      - 'OpsBerry Features and Security': id=714_demo=0.md
+    - 'https://www.collectpure.com/':
+      - 'for Website Exploration': id=713_demo=0.md
+    - 'https://paywithglide.xyz':
+      - 'for Wallet Connection': id=703_demo=0.md
+    - 'https://www.gleamcare.com/':
+      - 'Schedule a Meeting': id=701_demo=0.md
+    - 'https://www.sweetspot.so/':
+      - 'Federal Contracts and Resources': id=696_demo=0.md
+    - 'https://www.dili.ai':
+      - 'for Navigation to External Websites': id=694_demo=0.md
+    - 'https://fortunahealth.com/':
+      - 'Checking Eligibility for Medicaid': id=692_demo=0.md
+    - 'https://aglide.com':
+      - 'for Onboarding Process': id=686_demo=0.md
+    - 'https://www.capimoney.com':
+      - 'User Registration Story': id=683_demo=0.md
+    - 'https://quillai.com':
+      - 'for Browsing Experience': id=682_demo=0.md
+    - 'https://sweep.dev/':
+      - 'Job Application Process for Founding Engineer': id=677_demo=0.md
+    - 'https://www.letter.ai':
+      - 'for Demo Request': id=673_demo=0.md
+    - 'https://www.artie.com/':
+      - 'User Journey to Discover Artie''s Compliance Features': id=672_demo=0.md
+    - 'https://www.slickerhq.com':
+      - 'Slicker Integrations': id=670_demo=0.md
+    - 'https://empirical.health':
+      - 'for Appointment Booking with Apple Watch': id=667_demo=0.md
+    - 'https://www.cercli.com':
+      - 'Cercli''s Offerings and Mission': id=665_demo=0.md
+    - 'https://www.cascading.ai/':
+      - 'Schedule a Demo Call': id=657_demo=0.md
+    - 'https://outset.ai/':
+      - 'Password Recovery Process': id=656_demo=0.md
+    - 'https://www.cambioml.com/':
+      - 'AnyParser Features': id=655_demo=0.md
+    - 'https://flowiseai.com':
+      - 'Use Cases on Flowise': id=654_demo=0.md
+    - 'https://www.guac-ai.com/':
+      - 'Guac AI Solutions': id=648_demo=0.md
+    - 'https://www.agentsforce.com/':
+      - 'Pricing Options for Minded AI': id=647_demo=0.md
+    - 'https://www.sidenote.ai':
+      - 'User Signup and Chrome Extension Exploration': id=646_demo=0.md
+    - 'https://www.kobaltlabs.com/':
+      - 'Book a Demo Scheduling': id=645_demo=0.md
+    - 'https://www.withaccend.com/':
+      - 'Accend Website Services and Insights': id=641_demo=0.md
+    - 'https://reworkd.ai':
+      - 'User Journey on Reworkd Website': id=639_demo=0.md
+    - 'https://withflex.com/':
+      - 'for Contact Form Submission': id=638_demo=0.md
+    - 'https://www.deasylabs.com/':
+      - 'User Exploration of Deasy Labs'' Resources': id=637_demo=0.md
+    - 'https://humanlike.app/':
+      - 'Book Consultation User Journey': id=635_demo=0.md
+    - 'https://www.upstream.do/':
+      - 'User Journey to Join Upstream Waitlist': id=630_demo=0.md
+    - 'https://vetrec.io':
+      - 'User Registration Journey': id=627_demo=0.md
+    - 'https://www.subsets.com':
+      - 'Product Functionality and Use Cases': id=626_demo=0.md
+    - 'https://www.tegon.ai':
+      - 'User Journey to Start  Tegon': id=620_demo=0.md
+    - 'https://pocketpod.app':
+      - 'and Listen to Wooden Satellite Story': id=619_demo=0.md
+    - 'https://penciled.com':
+      - 'Demo Booking Process': id=617_demo=0.md
+    - 'https://www.getdime.io':
+      - 'User Engagement on Blog and Demo Scheduling': id=616_demo=0.md
+    - 'https://soundry.ai/':
+      - 'Soundry AI Features and Testimonials': id=613_demo=0.md
+    - 'https://silogy.io':
+      - 'for Learning About Viv''s Functionalities': id=611_demo=0.md
+    - 'https://kscale.dev/':
+      - 'Documentation': id=610_demo=0.md
+    - 'https://www.quivr.app/':
+      - 'Engineering Solutions on Quivr': id=609_demo=0.md
+    - 'https://www.salvy.com.br':
+      - 'Salvy''s Solutions and Pricing': id=605_demo=0.md
+    - 'https://trieve.ai':
+      - 'Trieve API Documentation and Quickstart': id=603_demo=0.md
+    - 'https://www.trytrueclaim.com':
+      - 'TrueClaim Services': id=594_demo=0.md
+    - 'https://www.sparkhq.ai':
+      - 'User Journey through Product Offerings': id=590_demo=0.md
+    - 'https://open.cx':
+      - 'Book a Discovery Call for AI Customer Support Demo': id=584_demo=0.md
+    - 'https://voicepanel.com':
+      - 'Voicepanel Solutions': id=578_demo=0.md
+    - 'https://firebender.com':
+      - 'User Journey Through Firebender Website': id=576_demo=0.md
+    - 'https://double.finance/':
+      - 'for Investment Strategy Exploration': id=574_demo=0.md
+    - 'https://www.greptile.com':
+      - 'Web Navigation Functionality': id=569_demo=0.md
+    - 'https://www.leya.law/':
+      - 'Book a Demo for Legal Product': id=568_demo=0.md
+    - 'https://prosights.co/':
+      - 'External Websites': id=566_demo=0.md
+    - 'https://getroe.ai':
+      - 'Roe AI Blogs and Booking a Demo': id=564_demo=0.md
+    - 'https://www.rysemarket.com/':
+      - 'User Engagement through Contact Form Submission': id=562_demo=0.md
+    - 'https://cocrafter.com/':
+      - 'Sample Website User Journey': id=561_demo=0.md
+    - 'https://camelai.com/':
+      - 'for Getting Started with camelAI': id=560_demo=0.md
+    - 'https://usetusk.ai':
+      - 'about  Tusk AI': id=559_demo=0.md
+    - 'https://withpretzel.com':
+      - 'Join Waitlist': id=554_demo=0.md
+    - 'https://pivotrobotics.com':
+      - 'Robotics Offerings and Features': id=552_demo=0.md
+    - 'https://getfluently.app/':
+      - 'User Onboarding of Fluently App': id=548_demo=0.md
+    - 'https://www.greenboard.com':
+      - 'Employee Compliance Solution and Schedule a Demo': id=542_demo=0.md
+    - 'https://www.eggnog.ai':
+      - 'User Experience in Eggnog AI Exploration': id=541_demo=0.md
+    - 'http://ssoready.com':
+      - '-  SSOReady Documentation': id=540_demo=0.md
+    - 'https://getomni.ai':
+      - 'Finance Solutions of OmniAI': id=539_demo=0.md
+    - 'https://www.octolane.com':
+      - 'User Journey for Octolane AI Pricing': id=537_demo=0.md
+    - 'https://www.radmate.ai':
+      - 'User Journey through RadMate AI Features': id=533_demo=0.md
+    - 'https://happenstance.ai':
+      - 'for Account Creation': id=503_demo=0.md
+    - 'https://www.forgehq.com/':
+      - 'Login Process Overview': id=501_demo=0.md
+    - 'https://www.usecentralize.com/':
+      - 'Platform Features': id=499_demo=0.md
+    - 'https://www.modelml.com/':
+      - 'Accessing External Website': id=498_demo=0.md
+    - 'https://tryintercept.com/':
+      - 'Websites': id=493_demo=0.md
+    - 'http://getcrux.ai/':
+      - 'View Best Comments on Blog Post': id=489_demo=0.md
+    - 'https://tryrisotto.com':
+      - 'User Journey to  Pricing and Demo Options': id=488_demo=0.md
+    - 'https://getdelve.com/?utm_source=yc&utm_medium=bookface&utm_campaign=yc_company_page':
+      - 'User Navigation Journey': id=487_demo=0.md
+    - 'https://opencall.ai':
+      - 'Booking a Demo Appointment': id=485_demo=0.md
+    - 'http://navier.ai':
+      - 'Navier AI Website': id=484_demo=0.md
+    - 'https://www.maihem.ai/':
+      - '-  Documentation': id=482_demo=0.md
+    - 'https://www.joinforge.app/':
+      - 'User Engagement in Partnership Form': id=474_demo=0.md
+    - 'http://www.indemni.com':
+      - 'Schedule a Meeting with Indemni': id=472_demo=0.md
+    - 'https://tokenowl.ai':
+      - 'Submit Early Access Request': id=469_demo=0.md
+    - 'https://datacurve.ai/':
+      - 'Scheduling a Meeting with Datacurve': id=467_demo=0.md
+    - 'https://repromptai.com':
+      - 'Demo Request': id=466_demo=0.md
+    - 'http://lantern.dev':
+      - 'Lantern Documentation': id=465_demo=0.md
+    - 'https://useocular.com':
+      - 'Pricing Plans and Start Registration': id=460_demo=0.md
+    - 'https://www.malibou.co':
+      - 'Demo Request': id=457_demo=0.md
+    - 'http://rovecard.com':
+      - 'Join Waitlist for Rove Card': id=453_demo=0.md
+    - 'https://www.preloop.com':
+      - 'Navigate to Relevant Information on Example Domains': id=448_demo=0.md
+    - 'https://www.kabilah.com':
+      - 'Kabilah''s Team and Solutions for Nurses': id=445_demo=0.md
+    - 'http://www.miden.co':
+      - 'Inquiry Submission for Expert Consultation': id=444_demo=0.md
+    - 'https://www.openmart.com':
+      - 'Owner Finder Exploration and Free Trial Signup': id=440_demo=0.md
+    - 'https://fumedev.com':
+      - 'Book a Demo Meeting with Fume': id=437_demo=0.md
+    - 'https://crowdvolt.com/':
+      - 'Search and View Event Details for ISOxo': id=435_demo=0.md
+    - 'https://www.xpaycheckout.com/':
+      - 'xPay Features and Pricing': id=433_demo=0.md
+    - 'https://sonauto.ai/':
+      - 'Playlists on Sonauto': id=432_demo=0.md
+    - 'https://soniahealth.com':
+      - 'User Engagement with Sonia Health Services': id=429_demo=0.md
+    - 'https://www.infinityapp.in/':
+      - 'Browsing Limitation Experience': id=425_demo=0.md
+    - 'https://commodityai.io/':
+      - 'User Sign-Up Process on CommodityAI': id=415_demo=0.md
+    - 'https://www.bilanc.co':
+      - 'Schedule a Demo': id=414_demo=0.md
+    - 'https://www.ubicloud.com':
+      - 'Ubicloud Documentation and Pricing': id=413_demo=0.md
+    - 'https://www.danswer.ai/':
+      - 'Onyx Assistants Product': id=410_demo=0.md
+    - 'https://promptarmor.com/':
+      - 'Request a Demo on Prompt Armor': id=409_demo=0.md
+    - 'https://draftaid.io/':
+      - 'Schedule a Demo with DraftAid': id=395_demo=0.md
+    - 'https://applytitan.com':
+      - 'User Journey for  GitHub Repository': id=394_demo=0.md
+    - 'http://bitesight.com':
+      - 'BiteSight App Features': id=390_demo=0.md
+    - 'https://info.mathgptpro.com/':
+      - 'MathGPTPro Features': id=384_demo=0.md
+    - 'https://hazeltech.ai/':
+      - 'Requesting a Demo for AI Procurement Solutions': id=382_demo=0.md
+    - 'https://www.healiahealth.com/':
+      - 'Healia''s Services and Impact': id=381_demo=0.md
+    - 'http://www.toma.com/':
+      - 'Schedule a Demo for Toma AI Services': id=380_demo=0.md
+    - 'https://joinswift.app':
+      - 'Booking a Demo with Swift': id=377_demo=0.md
+    - 'https://blaze.money':
+      - 'Privacy Policy and Download App': id=364_demo=0.md
+    - 'http://www.fuseinsight.com':
+      - 'Accessing Cookie Policy': id=363_demo=0.md
+    - 'https://stormy.ai':
+      - 'Influencer Follower Range Selection': id=362_demo=0.md
+    - 'https://autopallet.bot':
+      - 'Contact and Investment Opportunities on AutoPallet': id=359_demo=0.md
+    - 'https://www.autarc.energy/en':
+      - 'Heat Pump Products': id=355_demo=0.md
+    - 'http://mineflow.ai/':
+      - 'User Journey through Mineflow Documentation': id=351_demo=0.md
+    - 'https://claimsorted.com':
+      - 'ClaimSorted Website': id=340_demo=0.md
+    - 'https://www.camfer.dev/':
+      - 'Join Camfer Waitlist': id=337_demo=0.md
+    - 'http://abelpolice.com':
+      - 'Book a Demo for Abel Police': id=331_demo=0.md
+    - 'https://www.entangl.ai/':
+      - 'for Quote and Demo Request': id=327_demo=0.md
+    - 'https://lumenary.com':
+      - 'Contact Lumenary via Email': id=326_demo=0.md
+    - 'https://www.reworks.ai':
+      - 'Booking a Call with Reworks': id=324_demo=0.md
+    - 'https://guardianrf.com/':
+      - 'User Exploration of Guardian RF Capabilities and Technology': id=296_demo=0.md
+    - 'https://www.revi.ai/':
+      - 'Revi Solutions and Case Studies': id=77_demo=0.md
+    - 'https://www.sandra-ai.com/en':
+      - 'Book a Demo for Sandra AI': id=45_demo=0.md

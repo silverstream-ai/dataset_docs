@@ -1,0 +1,343 @@
+# Task
+
+**User Story for Joining Discord Community**
+
+As a new community member,,
+I join the Discord server to engage with other users and explore community features,,
+so that I can collaborate, ask questions, and gain insights from experienced developers.
+
+**Success definition:** Given I am on the community page of Codev
+When I click on the Community button and fill in my display name
+Then I should be redirected to a Discord invite link and see a 'Continue' button to join the server.
+
+## Trajectory
+
+**Step 1:**
+
+**Url (before/after):** 
+
+https://www.co.dev/?ref=YC
+
+https://discord.com/invite/Y64wtNMxEt
+
+**Content (before/after):** 
+
+```
+RootWebArea co.dev - Turn Text Into Full-Stack Web Applications | AI App Builder, focused, url='https://www.co.dev/?ref=YC'
+	StaticText You can now broadcast your app to be featured on Codev!
+	StaticText Learn more
+	[57] image, center=(1897,15)
+	[55] span, center=(1160,15), inner_text=Learn more
+```
+<details><summary>Show more</summary>
+
+```
+	[62] image, center=(92,71)
+	StaticText BETA
+	[69] button Community, center=(1186,80)
+		image
+	[63] span, center=(138,80), inner_text=BETA
+	[71] button Blog, center=(1297,80)
+	[72] button Featured, center=(1388,80)
+	[73] button Pricing, center=(1489,80)
+	[74] button Login, center=(1578,80)
+	[75] button Get started - it's free!, center=(1729,80)
+	StaticText You can now broadcast your app to be featured on Codev!
+	[82] image, center=(1166,230)
+	[80] div, center=(948,230), inner_text=You can now broadcast your app to be featured on Codev!
+	StaticText Text to App
+	StaticText in Minutes.
+	paragraph
+		StaticText Codev helps your app idea come to life, and deploys it using Nextjs.
+	image
+	paragraph
+		StaticText Powered by Claude
+	[94] textbox Enter your app idea here, center=(891,627), contenteditable=True
+	[98] button Generate App, center=(1200,627)
+	StaticText Backed by
+	[101] link Y Combinator Logo, center=(1006,881), url='https://www.ycombinator.com/'
+		image Y Combinator Logo, url='https://www.co.dev/images/y_combinator_logo.png'
+	Iframe
+		RootWebArea co.dev - YouTube, url='https://www.youtube.com/embed/V7NWWoa0kHY?modestbranding=1&showinfo=0&hd=1'
+			[a30] link Photo image of Codev, center=(592,989)
+			[a38] link co.dev, center=(951,990), url='https://www.youtube.com/watch?v=V7NWWoa0kHY'
+			[a55] button Share, center=(1314,987), hasPopup='menu'
+				image
+			[a91] button Play, center=(960,1182)
+				image
+			generic, atomic
+			[a317] link Watch on YouTube, center=(1257,1379), url='https://www.youtube.com/watch?v=V7NWWoa0kHY&embeds_referring_euri=https%3A%2F%2Fwww.co.dev%2F'
+	paragraph
+		StaticText Built with Codev
+	paragraph
+		StaticText Check out some of apps built on Codev by the community
+	link Travel Page Travel Page Enter your city to find things to do!, url='https://p5xn3hdnbj4tse8t.preview.co.dev/'
+		image Travel Page, url='https://www.co.dev/images/travel.png'
+	link Twitter Clone Twitter Clone Basic Twitter clone., url='https://orsveqv9ostyedqd.preview.co.dev/'
+		image Twitter Clone, url='https://www.co.dev/images/happening.png'
+	link Connect 5 Connect 5 Connect 5 in a row., url='https://esegkrtie6h0oedo.preview.co.dev/'
+		image Connect 5, url='https://www.co.dev/images/connect.png'
+	link Chess Chess Chess game with a computer opponent., url='https://4w5kom52k3frbqty-p8yk3i4fx-codevlabs.vercel.app/'
+		image Chess, url='https://www.co.dev/images/chess.png'
+	StaticText Built with Nextjs and Supabase
+	image
+	StaticText NPM packages are automatically installed.
+	image
+	image
+	image
+	heading Join 11,000+ Builders ★★★★★
+	paragraph
+		StaticText Our rapidly growing community of developers and creators building over 14,000+ apps with Codev
+	heading Frequently Asked Questions
+	heading What is Codev?
+	StaticText +
+	paragraph
+		StaticText Codev is an AI-powered platform that converts text descriptions into full-stack Next.js web applications. It helps developers and non-developers alike bring their app ideas to life quickly and efficiently.
+	heading How does it work?
+	StaticText +
+	paragraph
+		StaticText Simply describe your app idea in natural language, and Codev will generate a complete Next.js application with all necessary components, styling, and functionality. The AI understands your requirements and creates production-ready code.
+	heading What technologies does Codev use?
+	StaticText +
+	paragraph
+		StaticText Codev generates applications using Next.js (a popular React framework), and Supabase (a PostgreSQL database with real-time data sync). The apps are built with best practices and are fully customizable after generation.
+	heading Do I need coding experience to use Codev?
+	StaticText +
+	paragraph
+		StaticText While coding experience is helpful, it's not required. Codev is designed to be accessible to both developers and non-developers.
+	heading Can I customize the generated code?
+	StaticText +
+	paragraph
+		StaticText Yes! The code generated by Codev is yours to modify and customize. You have full access to the source code and take it with you when you leave Codev.
+	heading What are the limitations?
+	StaticText +
+	paragraph
+		StaticText Codev can generate full-stack applications with CRUD operations and database integration. However, more complex applications like web crawlers or apps that need to handle high traffic and scalability are not currently supported. Also, we are currently only supporting web applications, and so mobile apps and Chrome extensions are not supported.
+	heading Can I deploy and go to production without any developer?
+	StaticText +
+	paragraph
+		StaticText While Codev generates production-ready code, we highly recommend having a developer review the application before going to production, particularly to address security considerations and scaling requirements. This helps ensure your application is properly secured and can handle production workloads.
+	heading Can I make mobile apps (iOS/Android)?
+	StaticText +
+	paragraph
+		StaticText No, Codev only supports making web apps at this time.
+	StaticText What are you waiting for?
+	button Get started now - it's free!
+	StaticText © 2023 Wisp Labs, Inc. All rights reserved.
+	StaticText Terms of Service
+	StaticText Privacy Policy
+	alert, atomic
+```
+</details>
+
+
+
+```
+RootWebArea Discord, url='https://discord.com/invite/Y64wtNMxEt'
+	image, url='https://discord.com/assets/b9995525a52dc58aecf5.svg'
+	image, url='https://discord.com/assets/0e5029fd9cd4812b6712.svg'
+	SvgRoot
+	StaticText Andrew (andy9029) invited you to join
+```
+<details><summary>Show more</summary>
+
+```
+	heading Codev
+	StaticText 73 Online
+	StaticText 701 Members
+	heading DISPLAY NAME
+	[138] textbox What should everyone call you?, center=(960,586), contenteditable=True, focused, type=text
+	StaticText This is how others see you. You can use special characters and emoji.
+	[141] button Continue, center=(960,674), type=submit
+	StaticText By registering, you agree to Discord's
+	[144] link Terms of Service, center=(990,712), url='https://discord.com/terms'
+	StaticText and
+	[145] link Privacy Policy, center=(1094,712), url='https://discord.com/privacy'
+	StaticText .
+	[146] button Already have an account?, center=(829,748), type=button
+	image
+	Canvas
+```
+</details>
+
+**Reasoning for action:** By clicking the Community button, I am advancing toward the goal of exploring community features on Codev. This action should lead me to a page where I can fill in my display name and access the Discord invite link, fulfilling the user story requirements.
+
+**Action:** click(69) # Click on the Community button to explore community features.
+
+**Change Description:** After clicking the Community button, the browser state changed from the Codev website to a Discord invitation page, where the user is invited to join the Codev community. The new page displays the number of online members, prompts the user to choose a display name, and includes buttons for continuing with registration or logging in if they already have an account.
+
+**Screenshot before:****Screenshot after:**---
+
+**Step 2:**
+
+**Url (before/after):** 
+
+https://discord.com/invite/Y64wtNMxEt
+
+https://discord.com/invite/Y64wtNMxEt
+
+**Content (before/after):** 
+
+```
+RootWebArea Discord, url='https://discord.com/invite/Y64wtNMxEt'
+	image, url='https://discord.com/assets/b9995525a52dc58aecf5.svg'
+	image, url='https://discord.com/assets/0e5029fd9cd4812b6712.svg'
+	SvgRoot
+	StaticText Andrew (andy9029) invited you to join
+```
+<details><summary>Show more</summary>
+
+```
+	heading Codev
+	StaticText 73 Online
+	StaticText 701 Members
+	heading DISPLAY NAME
+	[138] textbox What should everyone call you?, center=(960,586), contenteditable=True, focused, type=text
+	StaticText This is how others see you. You can use special characters and emoji.
+	[141] button Continue, center=(960,674), type=submit
+	StaticText By registering, you agree to Discord's
+	[144] link Terms of Service, center=(990,712), url='https://discord.com/terms'
+	StaticText and
+	[145] link Privacy Policy, center=(1094,712), url='https://discord.com/privacy'
+	StaticText .
+	[146] button Already have an account?, center=(829,748), type=button
+	image
+	Canvas
+```
+</details>
+
+
+
+```
+RootWebArea Discord, focused, url='https://discord.com/invite/Y64wtNMxEt'
+	image, url='https://discord.com/assets/b9995525a52dc58aecf5.svg'
+	image, url='https://discord.com/assets/0e5029fd9cd4812b6712.svg'
+	SvgRoot
+	StaticText Andrew (andy9029) invited you to join
+```
+<details><summary>Show more</summary>
+
+```
+	heading Codev
+	StaticText 73 Online
+	StaticText 701 Members
+	heading DISPLAY NAME
+	[138] textbox What should everyone call you? value='SampleName', center=(960,586), contenteditable=True, focused, type=text
+	StaticText This is how others see you. You can use special characters and emoji.
+	[141] button Continue, center=(960,674), type=submit
+	StaticText By registering, you agree to Discord's
+	[144] link Terms of Service, center=(990,712), url='https://discord.com/terms'
+	StaticText and
+	[145] link Privacy Policy, center=(1094,712), url='https://discord.com/privacy'
+	StaticText .
+	[146] button Already have an account?, center=(829,748), type=button
+	image
+	Canvas
+```
+</details>
+
+**Reasoning for action:** By filling in the display name text box with 'SampleName', I am satisfying the requirement of providing a display name, which is necessary for the user to complete the form. This step is essential for advancing to the next action, which is to click the 'Continue' button, ultimately allowing me to join the community on Discord.
+
+**Action:** fill(138, 'SampleName') # Fill in the display name text box with a sample name.
+
+**Change Description:** The display name text box was filled with the sample name 'SampleName', updating its value while retaining its focus and other properties.
+
+**Screenshot before:****Screenshot after:**---
+
+**Step 3:**
+
+**Url (before/after):** 
+
+https://discord.com/invite/Y64wtNMxEt
+
+https://discord.com/invite/Y64wtNMxEt
+
+**Content (before/after):** 
+
+```
+RootWebArea Discord, focused, url='https://discord.com/invite/Y64wtNMxEt'
+	image, url='https://discord.com/assets/b9995525a52dc58aecf5.svg'
+	image, url='https://discord.com/assets/0e5029fd9cd4812b6712.svg'
+	SvgRoot
+	StaticText Andrew (andy9029) invited you to join
+```
+<details><summary>Show more</summary>
+
+```
+	heading Codev
+	StaticText 73 Online
+	StaticText 701 Members
+	heading DISPLAY NAME
+	[138] textbox What should everyone call you? value='SampleName', center=(960,586), contenteditable=True, focused, type=text
+	StaticText This is how others see you. You can use special characters and emoji.
+	[141] button Continue, center=(960,674), type=submit
+	StaticText By registering, you agree to Discord's
+	[144] link Terms of Service, center=(990,712), url='https://discord.com/terms'
+	StaticText and
+	[145] link Privacy Policy, center=(1094,712), url='https://discord.com/privacy'
+	StaticText .
+	[146] button Already have an account?, center=(829,748), type=button
+	image
+	Canvas
+```
+</details>
+
+
+
+```
+RootWebArea Discord, url='https://discord.com/invite/Y64wtNMxEt'
+	log
+	log
+	image, url='https://discord.com/assets/b9995525a52dc58aecf5.svg'
+	image, url='https://discord.com/assets/0e5029fd9cd4812b6712.svg'
+```
+<details><summary>Show more</summary>
+
+```
+	SvgRoot
+	StaticText Andrew (andy9029) invited you to join
+	heading Codev
+	StaticText 73 Online
+	StaticText 701 Members
+	heading DISPLAY NAME
+	textbox What should everyone call you? value='SampleName'
+	StaticText This is how others see you. You can use special characters and emoji.
+	button Loading
+		image Loading
+	StaticText By registering, you agree to Discord's
+	link Terms of Service, url='https://discord.com/terms'
+	StaticText and
+	link Privacy Policy, url='https://discord.com/privacy'
+	StaticText .
+	button Already have an account?
+	dialog CAPTCHA, modal=True
+		button Close
+		image, url='https://discord.com/assets/4ede869e6900fcdb1d61.svg'
+		StaticText Please confirm you’re not a robot.
+		image Loading
+			image
+	image
+	Canvas
+	[c] Iframe Main content of the hCaptcha challenge, center=(961,541), focused, title=Main content of the hCaptcha challenge
+		RootWebArea hCaptcha, focused, url='https://newassets.hcaptcha.com/captcha/v1/b1c4f76/static/hcaptcha.html#frame=challenge&id=0jsa3lz5wz7&host=discord.com&sentry=true&reportapi=https%3A%2F%2Faccounts.hcaptcha.com&recaptchacompat=off&custom=false&hl=en&tplinks=on&pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&sitekey=a9b5fb07-92ff-493f-86fe-352a2803b3df&size=invisible&theme=light&origin=https%3A%2F%2Fdiscord.com'
+			LayoutTable
+				heading Click, hold and drag the line to intersect all the colorful circles
+			heading
+			paragraph
+			Canvas, focused
+			[c364] button Select a language English, center=(724,734), expanded=False, hasPopup='listbox'
+			[c367] button Get information about hCaptcha and accessibility options., center=(728,776), expanded=False, hasPopup='menu'
+				image
+				image
+			[c389] button Skip Challenge, center=(1169,776)
+```
+</details>
+
+**Reasoning for action:** I chose to click on the 'Continue' button (identified by the ID 141) because it is necessary for progressing to join the Discord server after entering the display name. This action directly complies with the user story by facilitating the next step in the joining process, allowing me to engage with other community members as outlined in the acceptance criteria.
+
+**Action:** click(141) # Click on the Continue button to proceed with joining the Discord server.
+
+**Change Description:** After clicking the 'Continue' button, the browser transitioned to a loading state, prompting the user with a CAPTCHA modal that requires them to confirm they are not a robot before proceeding further; the previously interactive button is now labeled 'Loading'.
+
+**Screenshot before:****Screenshot after:**---
+
